@@ -1,3 +1,3 @@
 # poseidon-ctf
 
- Writeups for challs I solved from **Poseidon** ctf.
+ Writeups for challs I solved in **Poseidon** ctf Edition-1.
